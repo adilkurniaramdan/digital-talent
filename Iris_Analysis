@@ -1,0 +1,17 @@
+Berikut adalah descriptive analysis tentang data iris:
+1. Iris terbagi atas tiga spesies (Iris-setosa, Iris-versicolor, Iris-virginica)
+2. jika di analisa berdasarkan bentuk kelopak nya dapat di simpulkan sebagai berikut :
+	- rata-rata panjang helai kelopak (sepal length) Iris-virginica (6.588 cm) lebih panjang di banding dengan Iris-versicolor (5.936 cm) dan Iris-setosa (5.006 cm)
+	- rata-rata lebar helai kelopak (sepal width) Iris-setosa (3.418 cm) lebih panjang di banding dengan Iris-virginica (2.974 cm) dan Iris-versicolor (2.77 cm)
+	- sehingga dapat disimpulkan :
+		- Iris-virginica memiliki kelopak (sepal) paling panjang namun tidak terlalu lebar (sedang)
+		- Iris-versicolor  memiliki kelopak (sepal) yang tidak terlalu panjang (sedang) dan tidak lebar 
+		- Iris-setosa memiliki kelopak (sepal) yang pendek namun lebar
+
+3. jika di analisa berdasarkan bentuk mahkota bunga (petal) nya dapat di simpulkan sebagai berikut :
+	- rata-rata panjang mahkota bunga (petal length) Iris-virginica (5.552 cm) lebih panjang di banding dengan Iris-versicolor (4.26 cm) dan Iris-setosa (1.464 cm)
+	- rata-rata lebar mahkota bunga (petal length) Iris-virginica (2.026 cm) lebih panjang di banding dengan Iris-versicolor (1.326 cm) dan Iris-setosa (0.244 cm)
+	- sehingga dapat disimpulkan :
+		- Iris-virginica memiliki mahkota bunga  (petal) paling panjang dan paling lebar
+		- Iris-versicolor  memiliki mahkota bunga  (petal) yang tidak terlalu panjang (sedang) dan tidak terlalu lebar (sedang)
+		- Iris-setosa memiliki mahkota bunga (petal) yang pendek dan tidak lebar 
